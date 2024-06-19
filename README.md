@@ -2,7 +2,7 @@
 
 # Task-1: Data Analysis and Preprocessing
 1. Handle Missing Values
-    -Impute or drop missing values
+   - Impute or drop missing values
 2. Data Cleaning
    - Remove duplicates
    - Correct data types
