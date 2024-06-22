@@ -20,3 +20,16 @@
 6. Normalization and Scaling
 7. Encode Categorical Features
 
+# Task-2 : Model Building and Training
+1. Data Preparation:
+   - Feature and target separation
+   - Train-Test split
+2. Model Selection:
+   - Using several models to compare performance
+3. Model Training and Evaluation:
+   - Training models for both credit card and fraud data datasets
+4. MLOps Steps:
+   - Versioning and Experiment Tracking
+   - Using tools like Mlflow to track experiments log parameters, metrics, and version models
+
+
