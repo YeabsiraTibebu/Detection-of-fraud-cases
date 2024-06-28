@@ -36,11 +36,11 @@
 1. Using SHAP for Explainability:
    - SHAP values provide a unified measure of feature importance, explaining the contribution of each feature to the prediction.
    - SHAP Plots
-      ■ Summary Plot: Provides an overview of the most important features.
-      ■ Force Plot: Visualizes the contribution of features for a single prediction.
-      ■ Dependence Plot: This shows the relationship between a feature and the model output.
+      - Summary Plot: Provides an overview of the most important features.
+      - Force Plot: Visualizes the contribution of features for a single prediction.
+      - Dependence Plot: This shows the relationship between a feature and the model output.
 2. Using LIME for Explainability:
    - LIME explains individual predictions by approximating the model locally with an interpretable model.
    - LIME Plots
-      ■ Feature Importance Plot: Shows the most influential features of a specific prediction.
+      - Feature Importance Plot: Shows the most influential features of a specific prediction.
 
