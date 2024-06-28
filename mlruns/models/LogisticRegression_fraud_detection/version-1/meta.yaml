@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1719512404191
+current_stage: None
+description: ''
+last_updated_timestamp: 1719512404191
+name: LogisticRegression_fraud_detection
+run_id: 1baed5c0c3aa4c8498a702e5988f73bf
+run_link: ''
+source: mlflow-artifacts:/668097690514392710/1baed5c0c3aa4c8498a702e5988f73bf/artifacts/fraud_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/668097690514392710/1baed5c0c3aa4c8498a702e5988f73bf/artifacts/fraud_model
+user_id: null
+version: 1

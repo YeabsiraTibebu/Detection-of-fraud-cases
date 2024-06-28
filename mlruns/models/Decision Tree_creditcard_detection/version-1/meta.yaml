@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1719512806662
+current_stage: None
+description: ''
+last_updated_timestamp: 1719512806662
+name: Decision Tree_creditcard_detection
+run_id: 8fd062eadaa0478e8b203c98c1d47b2c
+run_link: ''
+source: mlflow-artifacts:/668097690514392710/8fd062eadaa0478e8b203c98c1d47b2c/artifacts/creditcard_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/668097690514392710/8fd062eadaa0478e8b203c98c1d47b2c/artifacts/creditcard_model
+user_id: null
+version: 1
