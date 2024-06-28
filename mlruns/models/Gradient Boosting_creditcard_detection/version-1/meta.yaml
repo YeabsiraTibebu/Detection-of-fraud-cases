@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1719513579498
+current_stage: None
+description: ''
+last_updated_timestamp: 1719513579498
+name: Gradient Boosting_creditcard_detection
+run_id: f77058e3d14943f0bb626e50c3301cac
+run_link: ''
+source: mlflow-artifacts:/668097690514392710/f77058e3d14943f0bb626e50c3301cac/artifacts/creditcard_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/668097690514392710/f77058e3d14943f0bb626e50c3301cac/artifacts/creditcard_model
+user_id: null
+version: 1

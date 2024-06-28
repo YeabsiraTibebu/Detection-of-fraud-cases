@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1719512767040
+current_stage: None
+description: ''
+last_updated_timestamp: 1719512767040
+name: LogisticRegression_creditcard_detection
+run_id: 911be9a8a36542fa91b6d4459a768700
+run_link: ''
+source: mlflow-artifacts:/668097690514392710/911be9a8a36542fa91b6d4459a768700/artifacts/creditcard_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/668097690514392710/911be9a8a36542fa91b6d4459a768700/artifacts/creditcard_model
+user_id: null
+version: 1

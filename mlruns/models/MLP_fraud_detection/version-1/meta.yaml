@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1719512741633
+current_stage: None
+description: ''
+last_updated_timestamp: 1719512741633
+name: MLP_fraud_detection
+run_id: cfb4e072b39141dfb5e3429155e27a51
+run_link: ''
+source: mlflow-artifacts:/668097690514392710/cfb4e072b39141dfb5e3429155e27a51/artifacts/fraud_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/668097690514392710/cfb4e072b39141dfb5e3429155e27a51/artifacts/fraud_model
+user_id: null
+version: 1

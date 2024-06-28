@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1719512600608
+current_stage: None
+description: ''
+last_updated_timestamp: 1719512600608
+name: Gradient Boosting_fraud_detection
+run_id: 95cda5b84b984ed1a24f99dcb06580c7
+run_link: ''
+source: mlflow-artifacts:/668097690514392710/95cda5b84b984ed1a24f99dcb06580c7/artifacts/fraud_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/668097690514392710/95cda5b84b984ed1a24f99dcb06580c7/artifacts/fraud_model
+user_id: null
+version: 1

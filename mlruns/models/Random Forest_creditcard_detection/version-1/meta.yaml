@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1719513095696
+current_stage: None
+description: ''
+last_updated_timestamp: 1719513095696
+name: Random Forest_creditcard_detection
+run_id: afb5f3e117ec4ebaa1127ee410c8b6a4
+run_link: ''
+source: mlflow-artifacts:/668097690514392710/afb5f3e117ec4ebaa1127ee410c8b6a4/artifacts/creditcard_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/668097690514392710/afb5f3e117ec4ebaa1127ee410c8b6a4/artifacts/creditcard_model
+user_id: null
+version: 1

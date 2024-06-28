@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/668097690514392710/95cda5b84b984ed1a24f99dcb06580c7/artifacts
+end_time: 1719512600637
+entry_point_name: ''
+experiment_id: '668097690514392710'
+lifecycle_stage: active
+run_id: 95cda5b84b984ed1a24f99dcb06580c7
+run_name: Gradient Boosting
+run_uuid: 95cda5b84b984ed1a24f99dcb06580c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719512595325
+status: 3
+tags: []
+user_id: hp

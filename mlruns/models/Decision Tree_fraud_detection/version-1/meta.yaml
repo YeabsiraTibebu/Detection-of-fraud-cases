@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1719512421708
+current_stage: None
+description: ''
+last_updated_timestamp: 1719512421708
+name: Decision Tree_fraud_detection
+run_id: 87acbe294e3342059900ae4b4199876b
+run_link: ''
+source: mlflow-artifacts:/668097690514392710/87acbe294e3342059900ae4b4199876b/artifacts/fraud_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/668097690514392710/87acbe294e3342059900ae4b4199876b/artifacts/fraud_model
+user_id: null
+version: 1
